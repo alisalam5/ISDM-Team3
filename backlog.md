@@ -1,2 +1,0 @@
-
-![](diagrams/productbacklog.png)
