@@ -12,3 +12,4 @@
 * As a customer, I want to be directed to an RM based on skill levels and best match so that I will be able to obtain the highest-quality and most enjoyable travel experience.
 * As a customer, I want to be able to talk to an interactive voice response and provide call reasons during busy times so that I can be redirected to the Automatic Call Distributor.
 * As a customer, I want to be redirected to an Automatic Call Distributor so that I can be routed to the first available RM.
+*As an RM, I want to log the call outcome, so that I can keep track of customer details such as the number of calls made or products purchased.
