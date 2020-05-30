@@ -16,7 +16,7 @@
 5. It is assumed that a supporting tool to create customer profiles exists in the system of operations, under the name “Profiler Tool.”
 6. It is assumed that during high intensity periods the system of operations is not proficient enough to provide high quality service towards its customers.
 7. It is assumed that there will be an external third-party that will provide assistance in particular internal processes such as verification and updating of details.
-8. It is assumed that RMs will log all call outcomes.
+8. It is assumed that the system will log all call outcomes.
 
 ## Stakeholders:
 * Relationship Managers
@@ -31,7 +31,7 @@
 ## POV Statements: 
 _**POV Statement 1**_
 * *User:* Relationship Manager responsible for performing sales of holiday packages
-*Need:* An information system to provide a more personalised experience for the customer by facilitating meaningful connections with their client in order to plan the highest-quality and most enjoyable travel experience
+* *Need:* An information system to provide a more personalised experience for the customer by facilitating meaningful connections with their client in order to plan the highest-quality and most enjoyable travel experience
 *	*Insight:* The current information system does not adequately match end-customers to well-informed RMs with appropriate experience and product knowledge.
 
 _**POV Statement 2**_
