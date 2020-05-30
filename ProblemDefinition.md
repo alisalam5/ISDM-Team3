@@ -52,4 +52,4 @@ _**POV Statement 3**_
 *	*How Might We* satisfy customer’s travel preferences and criteria?
 
 ## Empathy Map:
-*asdf
+
