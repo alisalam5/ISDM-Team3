@@ -13,7 +13,7 @@
 2. It is assumed that call routing and dynamic call flow control for both inbound and outbound calls in the current systems of operations is insufficient in serving customers effectively and efficiently.
 3. It is assumed that RMs have not been allocated to their appropriate customer and knowledge base, creating inefficiencies and failure of sales in the current system of operations.
 4. It is assumed that the current operations do not provide RMs with a proper means of targeting and securing new potential customers.
-5. It is assumed that a supporting tool to create customer profiles exists in the system of operations, under the name “Profiler Tool.”
+5. It is assumed that a supporting tool for RMs to create customer profiles exists in the system of operations, under the name “Profiler Tool.”
 6. It is assumed that during high intensity periods the system of operations is not proficient enough to provide high quality service towards its customers.
 7. It is assumed that there will be an external third-party that will provide assistance in particular internal processes such as verification and updating of details.
 8. It is assumed that the system will log all call outcomes.
