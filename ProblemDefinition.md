@@ -30,24 +30,24 @@
 
 ## POV Statements: 
 _**POV Statement 1**_
-- *User:* RMs responsible for performing sales of holiday packages
-- *Need:* An information system to provide a more personalised experience for the customer by facilitating meaningful connections with their client in order to plan the highest-quality and most enjoyable travel experience
+- *User:* RMs responsible for performing sales of holiday packages.
+- *Need:* An information system to provide a more personalised experience for the customer by facilitating meaningful connections with their client in order to plan the highest-quality and most enjoyable travel experience.
 -	*Insight:* The current information system does not adequately match end-customers to well-informed RMs with appropriate experience and product knowledge.
 
 _**POV Statement 2**_
--	*User:* Customers who are in located in Australia and in need of a travel experience 
--	*Need:* An efficient and quick response from an appropriate RM when calling up the travel company 
+-	*User:* Customers who are in located in Australia and in need of a travel experience. 
+-	*Need:* An efficient and quick response from an appropriate RM when calling up the travel company. 
 -	*Insight:* The current information system does not provide high-quality service towards its customers during high-intensity times. Customers may hang up if suffering from long wait time; highly inconvenient for customers.
 
 _**POV Statement 3**_
--	*User:* Customers who are in located in Australia and in need of a travel experience 
--	*Need:* To obtain the best possible holiday package with all travel preferences and criteria satisfactorily fulfilled by the most appropriate and well-informed RM
+-	*User:* Customers who are in located in Australia and in need of a travel experience. 
+-	*Need:* To obtain the best possible holiday package with all travel preferences and criteria satisfactorily fulfilled by the most appropriate and well-informed RM.
 -	*Insight:* The current information system does not provide a personalised experience due to inadequate matching of end-customers to RMs.
 
 _**POV Statement 4**_
 - *User:* RMs responsible for providing satisfactory customer service. 
-- *Need:* A descriptive and accurate profile and skills matrix 
-- *Insight:* The current system does not build or contain any RM profiles failing to direct RMs to customers where their skills can be fully and appropriately utilised. 
+- *Need:* A descriptive and accurate profile and skills matrix. 
+- *Insight:* The current system does not build or contain any RM profiles failing to direct RMs to customers where their skills can be fully and appropriately utilised.
 
 
 ## HMW Statements: 
