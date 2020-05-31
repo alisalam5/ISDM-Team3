@@ -24,8 +24,6 @@
 - Project Manager
 - Business Analyst
 - Developers/Software Engineers
-- Sponsor
-- Quality Analyst
 - Company CEO
 
 ## POV Statements: 
