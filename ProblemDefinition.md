@@ -1,5 +1,5 @@
 # The Problem Definition
-*Research shows that the current system of operations inadequately matches end-customers to well-informed RMs, leading to unsatisfied customers and a decrease in sales.* 
+*Research shows that the current system of operations inadequately matches end-customers to appropriate RMs, leading to unsatisfied customers and a decrease in sales.* 
 
 ## Objectives:
 1. To develop a new efficient and improved information system for the travel company's in-house *call management centre* (CMC).
