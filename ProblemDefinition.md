@@ -57,3 +57,5 @@ _**POV Statement 4**_
 
 ## Empathy Map:
 
+![](diagrams/empathymap.png) 
+
