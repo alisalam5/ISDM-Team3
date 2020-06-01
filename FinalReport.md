@@ -82,7 +82,7 @@ Before creating the product backlog, each member was assigned different sections
 
 Through effective communication, and our open-mind approach to changes and offering valuable feedback and insights of each member’s work, it has allowed for greater collaboration and understanding of the issue. As a result, we continued this approach when generating our prototypes and had progressively improved them through various iterations and finalized each model as a group.
 
-## Backlog:
+## Product Backlog:
 ![](diagrams/ProductBacklog.png)
 
 # Workproductss, Models and Descriptions 
