@@ -67,3 +67,19 @@ _**POV Statement 4**_
 ## Empathy Map:
 
 ![](diagrams/empathymap.png) 
+
+
+
+
+
+
+
+
+
+
+# Competitive Advantages and Possible Effects if the Project Fails
+
+A well-designed and executed information system is imperative for businesses to attain a competitive advantage. This is achieved by offering customers greater value than competitors through lower costs or higher quality services. By developing and implementing the proposed system, the operations of the CMC will improve immensely with a focus to accurately match RMs to end-customers with data pertaining an RM’s knowledge and skills. The proposed system will aim to achieve low-cost leadership, product differentiation, target a niche-market, and strengthen customer intimacy. To attain cost leadership the proposed system minimises call costs by effectively matching end-customers to suitable RMs and reducing per-call handling time. The system will generate scores that are calculated based on the RM’s previous call duration and profile, ensuring that customers with the highest scores are served first. The customer target list not only provides an improved service to the end-customer, but it also benefits the call centre by carrying out a more targeted approach ending in more effective calls. The system attains low costs and improved productivity due to an efficient customer response system directly linking appropriate RMs to customers. The use of such a system also enables product differentiation and a niche-market focus, as RMs will provide a more personalised service by assessing customer details, guidelines, and script (target list) from the system. Therefore, strengthening customer relationships with a more intimate and finely tuned sale when serving, and increasing the chances of securing a sale. With customers on their ideal holiday, satisfied customers will highly likely return as repeat customers. Thus, it is evident that both customer satisfaction and retention is achieved through the implementation of the proposed system.
+
+On the other hand, there may be adverse effects upon the travel company in the case that the proposed system fails. After careful analysis, some severe implications include financial loss, time and productivity loss, security issues, and customer turnover. The planning and implementation of a new system requires significant capital and labour. Thus, due to heavily invested capital, failure will result in huge financial impacts not only for capital invested but for time and productivity lost from the interruption of the system failure. Such expenses also contribute to security or privacy issues. Missing or corrupted data that ensues from project failure may risk customer data exposing private information to external threats. Moreover, the failure of the proposed system could mean that customers will be inappropriately matched to RMs with insufficient knowledge about the chosen destination. Customers will ultimately receive unsatisfactory service and may be purchasing a package that does not meet their expectations and needs. This will cause a detrimental impact to the company’s reputation. As a result, an increase in customer turnover and decrease in sales and revenue will occur. Customers will likely not return, and a damaged reputation will deter potential customers from looking to the company for services. Ultimately, it is evident that there are numerous inefficiencies and adverse effects for the company if the project were to fail.
+
