@@ -70,6 +70,7 @@ _**POV Statement 4**_
 
 ![](diagrams/empathymap.png) 
 
+
 # Design Thinking Approach 
 
 As a team, we have conducted a comprehensive analysis and concluded that the current systems of operations have been inefficient and have resulted in unsatisfied customers and a loss in sales. To resolve this issue, we utilized Scrum methodologies and a design thinking perspective to assist in developing an effective information system that will provide greater assistance to RM’s in matching them with the end-consumers. 
@@ -82,11 +83,7 @@ Before creating the product backlog, each member was assigned different sections
 Through effective communication, and our open-mind approach to changes and offering valuable feedback and insights of each member’s work, it has allowed for greater collaboration and understanding of the issue. As a result, we continued this approach when generating our prototypes and had progressively improved them through various iterations and finalized each model as a group.
 
 ## Backlog:
-
-
-
-
-
+![](diagrams/ProductBacklog.png)
 
 # Workproductss, Models and Descriptions 
 
@@ -107,21 +104,37 @@ Through effective communication, and our open-mind approach to changes and offer
 ## Activity Diagrams:
 
 ### Activity Diagram 1:
+
 ![](diagrams/Activity%20Diagram%201.png)
 ### Activity Diagram 2:
 
+![](diagrams/ActivityDiagram2.png)
 ### Activity Diagram 3: 
+
 ![](diagrams/ActivityDiagram3.png)
+
 ## Class Diagrams:
 
 A general overview of the system and the relationships between entities. Also describes the responsibilities of the classes in the system. 
-
 ![](diagrams/classdiagram.png) 
 
 ## Collaboration Diagrams: 
 
+### Collaboration Diagram 1:
 
+![](diagrams/Collaboration-1.png)
 
+### Collaboration Diagram 2:
+
+![](diagrams/Collaboration-2.png)
+
+### Collaboration Diagram 3:
+
+![](diagrams/Collaboration-3.png)
+
+### Collaboration Diagram 4:
+
+![](diagrams/Collaboration-4.png)
 
 
 # Competitive Advantages and Possible Effects if the Project Fails
