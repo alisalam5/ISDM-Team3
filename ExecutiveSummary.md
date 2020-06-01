@@ -1,4 +1,4 @@
-Executive Summary
+# Executive Summary
 
 The implementation of a customer processing system was required to improve internal processes and capitalise on individual skills and knowledge of different relationship managers(RM). The scrum framework was adopted for the project to encourage cohesion and communication among developers. 
 
