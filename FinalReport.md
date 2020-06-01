@@ -85,11 +85,12 @@ Through effective communication, and our open-mind approach to changes and offer
 ## Product Backlog:
 ![](diagrams/ProductBacklog.png)
 
-# Workproductss, Models and Descriptions 
+# Workproducts, Models and Descriptions 
 
 ## Use Case Diagrams:
 
-### Use Case Diagram 1:This use diagram below demonstrates the function of creating a relationship manager and customer profile.
+### Use Case Diagram 1:
+The use diagram below demonstrates the function of creating a relationship manager and customer profile.
 
 ![](diagrams/Use%20Case%20Diagram%201.png)
 
