@@ -89,7 +89,7 @@ Through effective communication, and our open-mind approach to changes and offer
 
 ## Use Case Diagrams:
 
-### Use Case Diagram 1:
+### Use Case Diagram 1:This use diagram below demonstrates the function of creating a relationship manager and customer profile.
 
 ![](diagrams/Use%20Case%20Diagram%201.png)
 
