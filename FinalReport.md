@@ -1,3 +1,5 @@
+# **_ISDM 'CMC System' Team-3 Report_** 
+
 # Executive Summary
 
 The implementation of a customer processing system was required to improve internal processes and capitalise on individual skills and knowledge of different relationship managers(RM). The scrum framework was adopted for the project to encourage cohesion and communication among developers. 
@@ -68,10 +70,55 @@ _**POV Statement 4**_
 
 ![](diagrams/empathymap.png) 
 
+# Design Thinking Approach 
+
+As a team, we have conducted a comprehensive analysis and concluded that the current systems of operations have been inefficient and have resulted in unsatisfied customers and a loss in sales. To resolve this issue, we utilized Scrum methodologies and a design thinking perspective to assist in developing an effective information system that will provide greater assistance to RM’s in matching them with the end-consumers. 
+
+At the start of the project, we established that conducting daily scrums would optimize performance and collaborations and would be vital to the success of this project. Although it was not daily, we decided to have a Zoom Call three times each week, to inspect, update and synchronize each other on our progress and express any issues impeding their performance.
+
+As a team, we collaborated and brainstorm ideas of solutions to the problem. We produced numerous Point of View (POV) statements which reframe the problem through the understanding of the user's needs, wants and the challenges they experience. With these POV statements, it enabled us to explore into a wide range of possibilities and develop How might we (HMW) statements to assist in resolving the problem. In a Zoom meeting, we then discussed these statements and finalized on the most appropriate POV and HMW statements.
+Before creating the product backlog, each member was assigned different sections of the case study to create specific user stories based on the facts. We created 13 user stories, where several were based on our assumptions that we created as a group. Some assumptions included that the company’s call management system and ability to match customers with suitable RM are inefficient. These assumptions are projected features or situations that will occur later or during our system’s development and life cycle; they are based on our current knowledge. Through zoom meetings, we conducted multiple meetings on Zoom and created and improved our product backlog through iterations.
+
+Through effective communication, and our open-mind approach to changes and offering valuable feedback and insights of each member’s work, it has allowed for greater collaboration and understanding of the issue. As a result, we continued this approach when generating our prototypes and had progressively improved them through various iterations and finalized each model as a group.
+
+## Backlog:
 
 
 
 
+
+
+# Workproductss, Models and Descriptions 
+
+## Use Case Diagrams:
+
+### Use Case Diagram 1:
+
+![](diagrams/Use%20Case%20Diagram%201.png)
+
+### Use Case Diagram 2:
+
+![](diagrams/Use%20Case%20Diagram%202.png)
+
+### Use Case Diagram 3: 
+
+![](diagrams/Use%20Case%20Diagram%203.png)
+
+## Activity Diagrams:
+
+### Activity Diagram 1:
+![](diagrams/Activity%20Diagram%201.png)
+### Activity Diagram 2:
+
+### Activity Diagram 3: 
+![](diagrams/ActivityDiagram3.png)
+## Class Diagrams:
+
+A general overview of the system and the relationships between entities. Also describes the responsibilities of the classes in the system. 
+
+![](diagrams/classdiagram.png) 
+
+## Collaboration Diagrams: 
 
 
 
