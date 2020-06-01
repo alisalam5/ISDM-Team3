@@ -102,6 +102,7 @@ Through effective communication, and our open-mind approach to changes and offer
 ![](diagrams/Use%20Case%20Diagram%203.png)
 
 ## Activity Diagrams:
+Activity diagrams are essentially flowcharts that represent the flow from one action to another. It shows the dynamic aspects of the system, with each action describing a specific task performed by the user or system. The following activity diagrams demonstrate the creation of the RM and customer profiles, outbound calling process, and inbound calling process respectively.
 
 ### Activity Diagram 1:
 
