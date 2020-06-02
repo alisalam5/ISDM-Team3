@@ -2,10 +2,10 @@
 
 # Executive Summary
 
-The implementation of a customer management system was required to improve internal processes and capitalise on individual skills and knowledge of different relationship managers(RM). The scrum framework was adopted for the project to encourage cohesion and communication among developers. 
+The implementation of a customer management system is required to improve internal processes and capitalise on individual skills and knowledge of different Relationship Managers(RM). The Scrum framework was adopted for the project to encourage cohesion and communication among developers. 
 
 In the planning process, the problem was first defined, and the objectives outlined. The problem was that the existing system inadequately matched customers to appropriate RMs and the objective was to address this issue by establishing improved call routing. 
-From a design thinking approach, various diagrams and models were constructed to encapsulate how the problem could be addressed to achieve the objective. The models consisted of use case diagrams, activity diagrams, class diagrams and collaboration diagrams. Models were tested and redesigned numerous times until the optimal solution was achieved. 
+From a Design Thinking approach, various diagrams and models were constructed to encapsulate how the problem could be addressed to achieve the objective. The models consisted of use case diagrams, activity diagrams, class diagrams and collaboration diagrams. Models were tested and redesigned numerous times until the optimal solution was achieved. 
 
 The proposed system, if successful, will help the business establish a competitive advantage in the market and maximise value creation for the customer. However, project failure will cause the business to suffer detrimentally, extensive resources of funds and time would have been wasted and may also damage the business’s reputation. The following report details the process by which the system was designed. 
 
@@ -89,7 +89,8 @@ Through effective communication, and our open-mind approach to changes and offer
 
 ## Use Case Diagrams:
 
-The three use case diagrams incorporates the 13 user stories that was proposed in the product backlog. It depicts the different actors within the system such as the relationship manager and emphasises on the functions, behaviours and relationships they have with the CMC system. The following diagrams represents the interactions of creating a RM and customer profile, and the inbound and outbound calling functionalities.
+The three use case diagrams incorporates the thirteen user stories that was proposed in the product backlog. It depicts the different actors within the system such as the relationship manager and emphasises on the functions, behaviours and relationships they have with the CMC system. The following diagrams represents the interactions of creating a RM and customer profile, and the inbound and outbound calling functionalities.
+
 ### Use Case Diagram 1:
 
 
