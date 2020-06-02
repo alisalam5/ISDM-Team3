@@ -121,6 +121,7 @@ A general overview of the system and the relationships between entities. Also de
 ![](diagrams/classdiagram.png) 
 
 ## Collaboration Diagrams: 
+The following collaboration diagrams are designed to illustrate the relationships and interactions between objects within the business.
 
 ### Collaboration Diagram 1:
 
