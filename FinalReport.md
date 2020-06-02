@@ -87,10 +87,9 @@ Through effective communication, and our open-mind approach to changes and offer
 
 # Workproducts, Models and Descriptions 
 
-## Use Case Diagrams:
-
+## Use Case Diagrams:The three use case diagrams incorporates the 13 user stories that was proposed in the product backlog. It depicts the different actors within the system such as the relationship manager and emphasises on the functions, behaviours and relationships they have with the CMC system. The following diagrams represents the interactions of creating a RM and customer profile, and the inbound and outbound calling functionalities.
 ### Use Case Diagram 1:
-The use diagram below demonstrates the function of creating a relationship manager and customer profile.
+
 
 ![](diagrams/Use%20Case%20Diagram%201.png)
 
