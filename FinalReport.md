@@ -2,7 +2,7 @@
 
 # Executive Summary
 
-The implementation of a customer management system is required to improve internal processes and capitalise on individual skills and knowledge of different Relationship Managers(RM). The Scrum framework was adopted for the project to encourage cohesion and communication among developers. 
+The implementation of a customer management system is required to improve internal processes and capitalise on individual skills and knowledge of different Relationship Managers (RM). The Scrum framework was adopted for the project to encourage cohesion and communication among developers. 
 
 In the planning process, the problem was first defined, and the objectives outlined. The problem was that the existing system inadequately matched customers to appropriate RMs and the objective was to address this issue by establishing improved call routing. 
 From a Design Thinking approach, various diagrams and models were constructed to encapsulate how the problem could be addressed to achieve the objective. The models consisted of use case diagrams, activity diagrams, class diagrams and collaboration diagrams. Models were tested and redesigned numerous times until the optimal solution was achieved. 
